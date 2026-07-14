@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
+| [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
