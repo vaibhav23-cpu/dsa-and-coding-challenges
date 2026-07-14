@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
