@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
