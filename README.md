@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
