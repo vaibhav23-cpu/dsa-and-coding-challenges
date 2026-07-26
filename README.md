@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
