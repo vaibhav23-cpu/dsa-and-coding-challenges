@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0217-contains-duplicate) |
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 ## Hash Table
