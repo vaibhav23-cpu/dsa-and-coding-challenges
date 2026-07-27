@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
