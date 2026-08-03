@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
