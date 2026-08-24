@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0876-middle-of-the-linked-list) |
 ## Counting
 |  |
 | ------- |
