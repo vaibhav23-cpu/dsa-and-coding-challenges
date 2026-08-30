@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1652-defuse-the-bomb](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1652-defuse-the-bomb) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
