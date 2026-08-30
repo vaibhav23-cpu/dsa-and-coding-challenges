@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1652-defuse-the-bomb](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
