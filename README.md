@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1652-defuse-the-bomb](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1652-defuse-the-bomb) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -243,4 +245,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
