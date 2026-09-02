@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0918-maximum-sum-circular-subarray) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/vaibhav23-cpu/dsa-and-coding-challenges/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
 | ------- |
