@@ -1,13 +1,13 @@
 class Solution(object):
     def subarraySum(self, nums, k):
         #sbse pehle ek empty dictionary bnaege fir compare krege array ko current number se agar vo sum 'k' k equal hota h toh usko seen m add krdege or tbtk krege jbtk k or sum dono equal nhi hojate
-        seen = {0: 1}
-        prefix = 0
-        count = 0
-        for num in nums:
-            prefix += num
-            need = prefix - k
+        seen = {0:1}
+        sum_num = 0
+        res = 0
+        for i in range(len(nums)):
+            sum_num+= nums[i]
+            need = sum_num - k
             if need in seen:
-                count += seen[need]
-            seen[prefix] = seen.get(prefix, 0)+1
-        return count
+                res += seen[need]
+            seen[sum_num] = seen.get(sum_num,0)+1
+        return res
